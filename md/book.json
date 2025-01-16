@@ -1,6 +1,7 @@
 {
     "title": "test",
     "plugins":[
-        "hide-published-with"
+        "hide-published-with",
+        "theme-official"
     ]
 }
