@@ -2,6 +2,5 @@
     "title": "test",
     "plugins":[
         "hide-published-with",
-        "x-blockquotes"
     ]
 }

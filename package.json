@@ -1,7 +1,6 @@
 {
   "devDependencies": {
     "gitbook-plugin-hide-published-with": "^0.0.1",
-    "gitbook-plugin-x-blockquotes": "^1.0.9",
     "honkit": "^6.0.2"
   }
 }
