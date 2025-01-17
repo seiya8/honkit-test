@@ -4,5 +4,10 @@
         "hide-published-with",
         "theme-api",
         "flexible-alerts"
-    ]
+    ],
+    "pluginsConfig": {
+        "flexible-alerts": {
+            "style": "flat"
+        }
+  }
 }
