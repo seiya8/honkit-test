@@ -2,6 +2,7 @@
     "title": "test",
     "plugins":[
         "hide-published-with",
-        "flexible-alerts"
+        "flexible-alerts",
+        "theme-official"
     ]
 }
