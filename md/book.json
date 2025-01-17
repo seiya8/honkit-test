@@ -3,7 +3,7 @@
     "plugins":[
         "hide-published-with",
         "navigator",
-        "theme-api",
+        "theme-official",
         "flexible-alerts"
     ],
     "pluginsConfig": {
