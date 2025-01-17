@@ -13,3 +13,10 @@ print("Hello World!")
 > 1. test3
 > 2. test4
 
+{% alert type="note", style="callout" %}
+This is a note.
+{% endalert %}
+
+{% alert type="note", style="callout" %}
+This is a note.
+{% endalert %}
