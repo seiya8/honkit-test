@@ -2,13 +2,7 @@
     "title": "test",
     "plugins":[
         "hide-published-with",
-        "navigator",
         "theme-official",
         "flexible-alerts"
-    ],
-    "pluginsConfig": {
-        "flexible-alerts": {
-            "style": "flat"
-        }
-  }
+    ]
 }
