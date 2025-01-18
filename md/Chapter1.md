@@ -6,11 +6,12 @@ print("Hello World!")
 ```
 
 {% alert type="note", style="callout" %}
-This is a note.
+- This is a note.
 {% endalert %}
 
 ## Test2
 
 {% alert type="warning", style="callout" %}
-This is a warning.
+1. This is a warning.
+2. This is a warning.
 {% endalert %}
