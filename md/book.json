@@ -8,7 +8,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/seiya8/honki-test/edit/main/md",
+            "base": "https://github.com/seiya8/honkit-test/blob/main/md",
             "label": "Edit This Page"
         }
     }
