@@ -2,7 +2,6 @@
   "devDependencies": {
     "gitbook-plugin-hide-published-with": "^0.0.1",
     "honkit-plugin-alert-msg": "^0.0.2",
-    "gitbook-plugin-theme-official": "^2.1.1",
     "honkit": "^6.0.2"
   }
 }
