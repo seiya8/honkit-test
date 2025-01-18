@@ -2,6 +2,14 @@
     "title": "test",
     "plugins":[
         "hide-published-with",
-        "alert-msg"
-    ]
+        "alert-msg",
+        "navigator",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/seiya8/honki-test/edit/main/md",
+            "label": "Edit This Page"
+        }
+    }
 }
